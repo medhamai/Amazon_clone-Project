@@ -1,7 +1,7 @@
 # Amazon_clone-Project
 Created a clone of the Amazon website using HTML, CSS and JavaScript with signin page, singup page, add to cart page and a product description page. 
-> Cliking the logo on the home page on the top left corner you will navigate to the original home page of Amazon website.
-> Clicking on lists and acounts option you can get the signin page if you are already a user or from the signin page you can navigate to the signup page for new users.
-> Cart option will take you to your cart page where all the items added to cart can be viewed.
-> The main image on home page is scrollable that is you can see different images by clicking the arrow on the left and right og the home page which was achieved using java script.
-> By clicking on the first box where offers are displayed you are take to the product page where you can view the description of product.
+The amazon logo on the top left of the home page helps to navigate to the original Amazon home page. 
+The Accounts & Lists section takes you to the signin page from where you can navigate to signup page. 
+The cart section opens cart page where you can view your items added to cart. 
+The background image on the home page is scrollable and changes slides when the navigation arrows are clicked which was achieved using java script. 
+The best selling electronics section (first box displaying products on home page) when clicked opens the product description.
